@@ -20,6 +20,7 @@ import (
 	"golang.org/x/crypto/ripemd160"
 	"golang.org/x/crypto/scrypt"
 	"golang.org/x/crypto/ssh/terminal"
+	"encoding/hex"
 )
 
 // WarpWallet encryption:
